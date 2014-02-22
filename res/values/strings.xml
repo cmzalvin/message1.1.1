@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">拨号器和短信发送器</string>
+    <string name="mobile">输入号码</string>
+    <string name="button1">拨号</string>
+    <string name="number1">15155191589</string>
+    
+    <string name="number2">输入号码</string>
+    <string name="content">输入信息内容</string>
+	<string name="button2">发送</string>
+	<string name="sucess">发送成功</string>
+</resources>
